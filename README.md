@@ -1,7 +1,7 @@
 # Python-GUI-Calculator
 A simple GUI Calculator using Tkinter in Python.
 <p align='center'>
-  <img src='https://github.com/SaiSwarup27/Python-GUI-Calculator/blob/master/image/Calculator.png'/>
+  <img src='[https://github.com/SaiSwarup27/Python-GUI-Calculator/blob/master/image/Calculator.png](https://github.com/Noamshabat1/GUI-Calculator-/blob/master/image/Calculator.png)'/>
 </p>
 
 #### How it works?
