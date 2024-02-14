@@ -1,7 +1,7 @@
 # Python-GUI-Calculator
 A simple GUI Calculator using Tkinter in Python.
 <p align='center'>
-    <img src="./media/1.png" alt="1" width="500px" /></p>
+    <img src="./image/Calculator.png" alt="1" width="500px" /></p>
 
 #### How it works?
 
